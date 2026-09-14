@@ -1,0 +1,23 @@
+.div1{
+    border: 5px dashed goldenrod;
+    width: 190px;
+    margin: 10px;
+    background: greenyellow;
+    padding: 10px;
+    text-align: center;
+    float: left;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url('logo.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: gray;
+}
+.a{
+    text-decoration: none;
+    font-weight: bolder;
+}
